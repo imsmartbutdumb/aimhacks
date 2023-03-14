@@ -30,7 +30,7 @@ local library = {
 	tabs = {},
 	draggable = true,
 	flags = {},
-	title = "Poog Foog - Universal Aim",
+	title = "haha noob - Universal Aim",
 	open = false,
 	mousestate = inputService.MouseIconEnabled,
 	popup = nil,
@@ -40,7 +40,7 @@ local library = {
 	notifications = {},
 	tabSize = 0,
 	theme = {},
-	foldername = "poog/universal",
+	foldername = "haha/universal",
 	fileext = ".sex"
 }
 
