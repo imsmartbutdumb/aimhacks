@@ -1,7 +1,7 @@
 repeat wait() until game:IsLoaded()
 
 -- Variables
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fr0gl3gs/Pooguniversalaimmm/main/universa"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/imsmartbutdumb/aimhacks/main/ui"))()
 
 
 local GlobalTargetPlayer = nil
